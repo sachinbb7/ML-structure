@@ -1,0 +1,1 @@
+This provides the intution on ML structure - right from creating the virtual environments to deploying the alogrithm to the server
